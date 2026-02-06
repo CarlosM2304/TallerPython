@@ -10,3 +10,7 @@ En este repositorio encontrará los 9 archivos los cuales contienen el taller so
 6. El sexto archivo realiza una útil enseñanza sobre los condicionales en python junto con operaciones tales como <, >, ==, != etc...
 7. El séptimo archivo realiza una útil enseñanza sobre bucles en python, tales como while y for
 8. El octavo archivo realiza una útil enseñanza sobre funciones en python, como declararlas, llamarlas, y como funcionan los parámetros de entrada.
+9. El noveno archivo realiza una útil enseñanza sobre clases en python, dando ejemplos de figuras geométricas y cómo cada clase tiene sus respectivas operaciones, resaltando la diferencia con c++ donde en python no se necesita de la declaración explicita de variables
+Nota: Cada uno de estos cuadernos (menos el noveno) viene con un examen al final, los cuales son resueltos satisfactoriamente
+
+Bono: Una serie de ejercicios los cuales resumen los 9 archivos anteriores.
